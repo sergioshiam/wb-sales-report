@@ -1,0 +1,362 @@
+[
+ {
+  "nmId": 210000101,
+  "chrtId": 900000001,
+  "warehouseId": 507,
+  "warehouseName": "Коледино",
+  "regionName": "Россия",
+  "quantity": 20,
+  "inWayToClient": 1,
+  "inWayFromClient": 1
+ },
+ {
+  "nmId": 210000101,
+  "chrtId": 900000001,
+  "warehouseId": 117986,
+  "warehouseName": "Казань",
+  "regionName": "Россия",
+  "quantity": 20,
+  "inWayToClient": 0,
+  "inWayFromClient": 0
+ },
+ {
+  "nmId": 210000101,
+  "chrtId": 900000001,
+  "warehouseId": 1733,
+  "warehouseName": "Екатеринбург - Испытателей 14г",
+  "regionName": "Россия",
+  "quantity": 20,
+  "inWayToClient": 2,
+  "inWayFromClient": 0
+ },
+ {
+  "nmId": 210000101,
+  "chrtId": 900000002,
+  "warehouseId": 507,
+  "warehouseName": "Коледино",
+  "regionName": "Россия",
+  "quantity": 20,
+  "inWayToClient": 1,
+  "inWayFromClient": 1
+ },
+ {
+  "nmId": 210000101,
+  "chrtId": 900000002,
+  "warehouseId": 117986,
+  "warehouseName": "Казань",
+  "regionName": "Россия",
+  "quantity": 20,
+  "inWayToClient": 1,
+  "inWayFromClient": 1
+ },
+ {
+  "nmId": 210000101,
+  "chrtId": 900000002,
+  "warehouseId": 1733,
+  "warehouseName": "Екатеринбург - Испытателей 14г",
+  "regionName": "Россия",
+  "quantity": 20,
+  "inWayToClient": 3,
+  "inWayFromClient": 0
+ },
+ {
+  "nmId": 210000101,
+  "chrtId": 900000003,
+  "warehouseId": 507,
+  "warehouseName": "Коледино",
+  "regionName": "Россия",
+  "quantity": 20,
+  "inWayToClient": 3,
+  "inWayFromClient": 1
+ },
+ {
+  "nmId": 210000101,
+  "chrtId": 900000003,
+  "warehouseId": 117986,
+  "warehouseName": "Казань",
+  "regionName": "Россия",
+  "quantity": 20,
+  "inWayToClient": 1,
+  "inWayFromClient": 1
+ },
+ {
+  "nmId": 210000101,
+  "chrtId": 900000003,
+  "warehouseId": 1733,
+  "warehouseName": "Екатеринбург - Испытателей 14г",
+  "regionName": "Россия",
+  "quantity": 20,
+  "inWayToClient": 1,
+  "inWayFromClient": 0
+ },
+ {
+  "nmId": 210000102,
+  "chrtId": 900000004,
+  "warehouseId": 507,
+  "warehouseName": "Коледино",
+  "regionName": "Россия",
+  "quantity": 3,
+  "inWayToClient": 3,
+  "inWayFromClient": 1
+ },
+ {
+  "nmId": 210000102,
+  "chrtId": 900000004,
+  "warehouseId": 117986,
+  "warehouseName": "Казань",
+  "regionName": "Россия",
+  "quantity": 3,
+  "inWayToClient": 1,
+  "inWayFromClient": 0
+ },
+ {
+  "nmId": 210000102,
+  "chrtId": 900000004,
+  "warehouseId": 1733,
+  "warehouseName": "Екатеринбург - Испытателей 14г",
+  "regionName": "Россия",
+  "quantity": 3,
+  "inWayToClient": 2,
+  "inWayFromClient": 1
+ },
+ {
+  "nmId": 210000102,
+  "chrtId": 900000005,
+  "warehouseId": 507,
+  "warehouseName": "Коледино",
+  "regionName": "Россия",
+  "quantity": 3,
+  "inWayToClient": 0,
+  "inWayFromClient": 1
+ },
+ {
+  "nmId": 210000102,
+  "chrtId": 900000005,
+  "warehouseId": 117986,
+  "warehouseName": "Казань",
+  "regionName": "Россия",
+  "quantity": 3,
+  "inWayToClient": 0,
+  "inWayFromClient": 1
+ },
+ {
+  "nmId": 210000102,
+  "chrtId": 900000005,
+  "warehouseId": 1733,
+  "warehouseName": "Екатеринбург - Испытателей 14г",
+  "regionName": "Россия",
+  "quantity": 3,
+  "inWayToClient": 1,
+  "inWayFromClient": 0
+ },
+ {
+  "nmId": 210000102,
+  "chrtId": 900000006,
+  "warehouseId": 507,
+  "warehouseName": "Коледино",
+  "regionName": "Россия",
+  "quantity": 3,
+  "inWayToClient": 3,
+  "inWayFromClient": 1
+ },
+ {
+  "nmId": 210000102,
+  "chrtId": 900000006,
+  "warehouseId": 117986,
+  "warehouseName": "Казань",
+  "regionName": "Россия",
+  "quantity": 3,
+  "inWayToClient": 3,
+  "inWayFromClient": 1
+ },
+ {
+  "nmId": 210000102,
+  "chrtId": 900000006,
+  "warehouseId": 1733,
+  "warehouseName": "Екатеринбург - Испытателей 14г",
+  "regionName": "Россия",
+  "quantity": 3,
+  "inWayToClient": 3,
+  "inWayFromClient": 1
+ },
+ {
+  "nmId": 210000203,
+  "chrtId": 900000007,
+  "warehouseId": 507,
+  "warehouseName": "Коледино",
+  "regionName": "Россия",
+  "quantity": 30,
+  "inWayToClient": 3,
+  "inWayFromClient": 0
+ },
+ {
+  "nmId": 210000203,
+  "chrtId": 900000007,
+  "warehouseId": 117986,
+  "warehouseName": "Казань",
+  "regionName": "Россия",
+  "quantity": 30,
+  "inWayToClient": 0,
+  "inWayFromClient": 0
+ },
+ {
+  "nmId": 210000203,
+  "chrtId": 900000007,
+  "warehouseId": 1733,
+  "warehouseName": "Екатеринбург - Испытателей 14г",
+  "regionName": "Россия",
+  "quantity": 30,
+  "inWayToClient": 1,
+  "inWayFromClient": 1
+ },
+ {
+  "nmId": 210000203,
+  "chrtId": 900000008,
+  "warehouseId": 507,
+  "warehouseName": "Коледино",
+  "regionName": "Россия",
+  "quantity": 30,
+  "inWayToClient": 0,
+  "inWayFromClient": 1
+ },
+ {
+  "nmId": 210000203,
+  "chrtId": 900000008,
+  "warehouseId": 117986,
+  "warehouseName": "Казань",
+  "regionName": "Россия",
+  "quantity": 30,
+  "inWayToClient": 1,
+  "inWayFromClient": 1
+ },
+ {
+  "nmId": 210000203,
+  "chrtId": 900000008,
+  "warehouseId": 1733,
+  "warehouseName": "Екатеринбург - Испытателей 14г",
+  "regionName": "Россия",
+  "quantity": 30,
+  "inWayToClient": 1,
+  "inWayFromClient": 1
+ },
+ {
+  "nmId": 210000304,
+  "chrtId": 900000009,
+  "warehouseId": 507,
+  "warehouseName": "Коледино",
+  "regionName": "Россия",
+  "quantity": 8,
+  "inWayToClient": 3,
+  "inWayFromClient": 0
+ },
+ {
+  "nmId": 210000304,
+  "chrtId": 900000009,
+  "warehouseId": 117986,
+  "warehouseName": "Казань",
+  "regionName": "Россия",
+  "quantity": 8,
+  "inWayToClient": 0,
+  "inWayFromClient": 1
+ },
+ {
+  "nmId": 210000304,
+  "chrtId": 900000009,
+  "warehouseId": 1733,
+  "warehouseName": "Екатеринбург - Испытателей 14г",
+  "regionName": "Россия",
+  "quantity": 8,
+  "inWayToClient": 2,
+  "inWayFromClient": 0
+ },
+ {
+  "nmId": 210000304,
+  "chrtId": 900000010,
+  "warehouseId": 507,
+  "warehouseName": "Коледино",
+  "regionName": "Россия",
+  "quantity": 8,
+  "inWayToClient": 3,
+  "inWayFromClient": 0
+ },
+ {
+  "nmId": 210000304,
+  "chrtId": 900000010,
+  "warehouseId": 117986,
+  "warehouseName": "Казань",
+  "regionName": "Россия",
+  "quantity": 8,
+  "inWayToClient": 3,
+  "inWayFromClient": 0
+ },
+ {
+  "nmId": 210000304,
+  "chrtId": 900000010,
+  "warehouseId": 1733,
+  "warehouseName": "Екатеринбург - Испытателей 14г",
+  "regionName": "Россия",
+  "quantity": 8,
+  "inWayToClient": 1,
+  "inWayFromClient": 1
+ },
+ {
+  "nmId": 210000304,
+  "chrtId": 900000011,
+  "warehouseId": 507,
+  "warehouseName": "Коледино",
+  "regionName": "Россия",
+  "quantity": 8,
+  "inWayToClient": 0,
+  "inWayFromClient": 1
+ },
+ {
+  "nmId": 210000304,
+  "chrtId": 900000011,
+  "warehouseId": 117986,
+  "warehouseName": "Казань",
+  "regionName": "Россия",
+  "quantity": 8,
+  "inWayToClient": 2,
+  "inWayFromClient": 1
+ },
+ {
+  "nmId": 210000304,
+  "chrtId": 900000011,
+  "warehouseId": 1733,
+  "warehouseName": "Екатеринбург - Испытателей 14г",
+  "regionName": "Россия",
+  "quantity": 8,
+  "inWayToClient": 0,
+  "inWayFromClient": 1
+ },
+ {
+  "nmId": 210000405,
+  "chrtId": 900000012,
+  "warehouseId": 507,
+  "warehouseName": "Коледино",
+  "regionName": "Россия",
+  "quantity": 100,
+  "inWayToClient": 0,
+  "inWayFromClient": 0
+ },
+ {
+  "nmId": 210000405,
+  "chrtId": 900000012,
+  "warehouseId": 117986,
+  "warehouseName": "Казань",
+  "regionName": "Россия",
+  "quantity": 100,
+  "inWayToClient": 1,
+  "inWayFromClient": 1
+ },
+ {
+  "nmId": 210000405,
+  "chrtId": 900000012,
+  "warehouseId": 1733,
+  "warehouseName": "Екатеринбург - Испытателей 14г",
+  "regionName": "Россия",
+  "quantity": 100,
+  "inWayToClient": 3,
+  "inWayFromClient": 0
+ }
+]
